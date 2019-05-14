@@ -1,3 +1,4 @@
+# jekyll serve per generare il sito
 # Welcome to Jekyll!
 #
 
@@ -13,11 +14,11 @@ social:
   # twitter: https://twitter.com/<username>
   # github: https://github.com/<username>
   # linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  facebook-official: https://facebook.com/<Olwe-1793394010903374/?ref=bookmarks>
   # google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
-  #instagram:
+  instagram: https://www.instagram.com/ <title>
   #youtube-square:
   #spotify:
   #stack-overflow:
@@ -27,7 +28,7 @@ social:
   #delicious:
   #pied-piper:
   #digg:
-  #soundcloud:
+  soundcloud: https://soundcloud.com/ <title>
   #deviantart:
   #angellist:
   #tumblr-square:
